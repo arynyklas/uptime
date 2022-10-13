@@ -24,6 +24,9 @@ sites:
   - name: ArynMusicalBot
     url: https://backend.isbotdown.com/bots/ArynMusicalBot
     __dangerous__body_down: "\"isDown\":true"
+  - name: ArynIDBot
+    url: https://backend.isbotdown.com/bots/ArynIDBot
+    __dangerous__body_down: "\"isDown\":true"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -39,9 +42,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-
-
 
 
 # Upptime also supports notifications, assigning issues, and more
