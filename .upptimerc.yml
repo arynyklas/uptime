@@ -7,7 +7,7 @@ sites:
     url: https://backend.isbotdown.com/bots/BinomTTBot
     __dangerous__body_down: "\"isDown\":true"
   - name: BinomTTSite
-    url: https://binomtt.github.com/site
+    url: https://binomtt.sek.su/
     __dangerous__body_down: "<title>Расписание | "
   - name: msg2textbot
     url: https://backend.isbotdown.com/bots/msg2textbot
