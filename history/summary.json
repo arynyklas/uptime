@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.86%",
     "uptimeYear": "96.99%",
-    "time": 130,
-    "timeDay": 683,
-    "timeWeek": 482,
-    "timeMonth": 387,
-    "timeYear": 137,
+    "time": 131,
+    "timeDay": 458,
+    "timeWeek": 491,
+    "timeMonth": 398,
+    "timeYear": 138,
     "dailyMinutesDown": {
       "2024-02-29": 499,
       "2023-12-31": 85,
@@ -39,8 +39,7 @@
       "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 453,
-      "2023-04-11": 70,
-      "2023-03-19": 62
+      "2023-04-11": 70
     }
   },
   {
@@ -49,14 +48,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "aryn-tt-bot",
     "status": "up",
-    "uptime": "79.16%",
+    "uptime": "79.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.64%",
     "uptimeYear": "97.63%",
     "time": 116,
-    "timeDay": 154,
-    "timeWeek": 108,
+    "timeDay": 106,
+    "timeWeek": 110,
     "timeMonth": 111,
     "timeYear": 114,
     "dailyMinutesDown": {
@@ -85,8 +84,7 @@
       "2023-06-11": 1440,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
-      "2023-06-08": 451,
-      "2023-03-19": 62
+      "2023-06-08": 451
     }
   },
   {
@@ -101,8 +99,8 @@
     "uptimeMonth": "98.97%",
     "uptimeYear": "98.39%",
     "time": 115,
-    "timeDay": 154,
-    "timeWeek": 108,
+    "timeDay": 105,
+    "timeWeek": 110,
     "timeMonth": 110,
     "timeYear": 114,
     "dailyMinutesDown": {
@@ -131,15 +129,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "hdr-films-bot",
     "status": "up",
-    "uptime": "96.45%",
+    "uptime": "96.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.13%",
+    "uptimeMonth": "98.97%",
     "uptimeYear": "94.82%",
     "time": 116,
-    "timeDay": 154,
-    "timeWeek": 107,
-    "timeMonth": 112,
+    "timeDay": 105,
+    "timeWeek": 109,
+    "timeMonth": 110,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2024-02-29": 453,
@@ -190,8 +188,8 @@
     "uptimeMonth": "98.86%",
     "uptimeYear": "97.23%",
     "time": 115,
-    "timeDay": 155,
-    "timeWeek": 107,
+    "timeDay": 105,
+    "timeWeek": 109,
     "timeMonth": 110,
     "timeYear": 115,
     "dailyMinutesDown": {
@@ -215,8 +213,7 @@
       "2023-06-11": 1440,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
-      "2023-06-08": 447,
-      "2023-03-19": 62
+      "2023-06-08": 447
     }
   },
   {
@@ -231,8 +228,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.52%",
     "time": 114,
-    "timeDay": 154,
-    "timeWeek": 108,
+    "timeDay": 106,
+    "timeWeek": 110,
     "timeMonth": 111,
     "timeYear": 114,
     "dailyMinutesDown": {
