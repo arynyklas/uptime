@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "msg2textbot",
     "status": "up",
-    "uptime": "98.12%",
-    "uptimeDay": "61.72%",
+    "uptime": "98.13%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "94.53%",
     "uptimeMonth": "98.74%",
     "uptimeYear": "96.91%",
     "time": 188,
-    "timeDay": 405,
-    "timeWeek": 503,
-    "timeMonth": 508,
+    "timeDay": 384,
+    "timeWeek": 493,
+    "timeMonth": 501,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2024-06-06": 551,
@@ -37,8 +37,7 @@
       "2023-06-17": 73,
       "2023-06-12": 1334,
       "2023-06-11": 1440,
-      "2023-06-10": 1440,
-      "2023-06-09": 1440
+      "2023-06-10": 1440
     }
   },
   {
@@ -47,18 +46,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "aryn-tt-bot",
     "status": "down",
-    "uptime": "78.82%",
+    "uptime": "78.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "36.89%",
-    "uptimeYear": "92.38%",
+    "uptimeMonth": "33.61%",
+    "uptimeYear": "92.11%",
     "time": 115,
-    "timeDay": 90,
-    "timeWeek": 117,
-    "timeMonth": 115,
+    "timeDay": 89,
+    "timeWeek": 114,
+    "timeMonth": 114,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2024-06-07": 37,
+      "2024-06-08": 36,
+      "2024-06-07": 1440,
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
@@ -102,8 +102,7 @@
       "2023-06-17": 73,
       "2023-06-12": 1334,
       "2023-06-11": 1440,
-      "2023-06-10": 1440,
-      "2023-06-09": 1440
+      "2023-06-10": 1440
     }
   },
   {
@@ -113,14 +112,14 @@
     "slug": "sp-owner-bot",
     "status": "up",
     "uptime": "98.95%",
-    "uptimeDay": "68.86%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "95.55%",
     "uptimeMonth": "98.98%",
     "uptimeYear": "98.32%",
-    "time": 116,
-    "timeDay": 113,
-    "timeWeek": 119,
-    "timeMonth": 117,
+    "time": 115,
+    "timeDay": 88,
+    "timeWeek": 117,
+    "timeMonth": 116,
     "timeYear": 115,
     "dailyMinutesDown": {
       "2024-06-06": 448,
@@ -136,8 +135,7 @@
       "2023-06-21": 192,
       "2023-06-12": 1334,
       "2023-06-11": 1440,
-      "2023-06-10": 1440,
-      "2023-06-09": 1440
+      "2023-06-10": 1440
     }
   },
   {
@@ -147,14 +145,14 @@
     "slug": "hdr-films-bot",
     "status": "up",
     "uptime": "96.85%",
-    "uptimeDay": "68.86%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "95.55%",
     "uptimeMonth": "98.75%",
     "uptimeYear": "95.14%",
     "time": 116,
-    "timeDay": 113,
-    "timeWeek": 119,
-    "timeMonth": 117,
+    "timeDay": 88,
+    "timeWeek": 117,
+    "timeMonth": 116,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2024-06-06": 448,
@@ -189,8 +187,7 @@
       "2023-06-21": 190,
       "2023-06-12": 1334,
       "2023-06-11": 1440,
-      "2023-06-10": 1440,
-      "2023-06-09": 1440
+      "2023-06-10": 1440
     }
   },
   {
@@ -199,15 +196,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "see-json-bot",
     "status": "up",
-    "uptime": "98.30%",
-    "uptimeDay": "61.72%",
+    "uptime": "98.31%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "94.53%",
     "uptimeMonth": "98.74%",
     "uptimeYear": "97.14%",
     "time": 116,
-    "timeDay": 95,
-    "timeWeek": 112,
-    "timeMonth": 115,
+    "timeDay": 88,
+    "timeWeek": 111,
+    "timeMonth": 114,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2024-06-06": 551,
@@ -229,8 +226,7 @@
       "2023-06-21": 189,
       "2023-06-12": 1335,
       "2023-06-11": 1440,
-      "2023-06-10": 1440,
-      "2023-06-09": 1440
+      "2023-06-10": 1440
     }
   },
   {
@@ -245,9 +241,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.52%",
     "time": 115,
-    "timeDay": 90,
-    "timeWeek": 117,
-    "timeMonth": 116,
+    "timeDay": 88,
+    "timeWeek": 114,
+    "timeMonth": 115,
     "timeYear": 115,
     "dailyMinutesDown": {
       "2024-02-01": 99,
@@ -262,8 +258,7 @@
       "2023-06-21": 186,
       "2023-06-12": 1325,
       "2023-06-11": 1440,
-      "2023-06-10": 1440,
-      "2023-06-09": 1440
+      "2023-06-10": 1440
     }
   }
 ]
