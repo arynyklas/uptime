@@ -1,7 +1,7 @@
 url: https://rezka_api.sek.su/openapi.json
-status: down
-code: 404
-responseTime: 1002
-lastUpdated: 2024-10-25T15:50:24.795Z
+status: up
+code: 200
+responseTime: 1023
+lastUpdated: 2024-10-25T16:11:22.815Z
 startTime: 2024-06-22T19:43:55.322Z
 generator: Upptime <https://github.com/upptime/upptime>
