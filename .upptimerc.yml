@@ -23,6 +23,9 @@ sites:
   - name: ArynIDBot
     url: https://backend.isbotdown.com/bots/ArynIDBot
     __dangerous__body_down: "\"isDown\":true"
+  - name: NFTNumberBot
+    url: https://backend.isbotdown.com/bots/NFTNumberBot
+    __dangerous__body_down: "\"isDown\":true"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
