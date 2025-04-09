@@ -1,7 +1,7 @@
 url: https://backend.isbotdown.com/bots/ArynIDBot
-status: up
-code: 200
-responseTime: 91
-lastUpdated: 2025-04-08T23:12:58.410Z
+status: down
+code: 503
+responseTime: 89
+lastUpdated: 2025-04-09T17:23:14.180Z
 startTime: 2022-10-13T13:53:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
