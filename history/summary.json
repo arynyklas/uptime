@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "98.16%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.86%",
+    "uptimeWeek": "99.42%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "98.12%",
     "time": 506,
@@ -37,8 +37,7 @@
       "2024-08-30": 104,
       "2024-08-23": 119,
       "2024-08-14": 105,
-      "2024-06-08": 109,
-      "2024-06-06": 551
+      "2024-06-08": 109
     }
   },
   {
@@ -49,9 +48,9 @@
     "status": "up",
     "uptime": "61.25%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.86%",
+    "uptimeWeek": "99.42%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "31.22%",
+    "uptimeYear": "31.23%",
     "time": 114,
     "timeDay": 91,
     "timeWeek": 104,
@@ -312,8 +311,7 @@
       "2024-06-10": 1440,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
-      "2024-06-07": 1440,
-      "2024-06-06": 1440
+      "2024-06-07": 1440
     }
   },
   {
@@ -323,8 +321,8 @@
     "slug": "sp-owner-bot",
     "status": "up",
     "uptime": "94.72%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.00%",
+    "uptimeDay": "4.59%",
+    "uptimeWeek": "0.66%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "87.47%",
     "time": 115,
@@ -386,8 +384,7 @@
       "2024-10-03": 75,
       "2024-07-06": 114,
       "2024-06-17": 40,
-      "2024-06-16": 92,
-      "2024-06-06": 448
+      "2024-06-16": 92
     }
   },
   {
@@ -400,14 +397,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "73.89%",
+    "uptimeYear": "73.88%",
     "time": 116,
     "timeDay": 91,
     "timeWeek": 102,
     "timeMonth": 130,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-06-05": 1427,
+      "2025-06-06": 53,
+      "2025-06-05": 1440,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
@@ -512,8 +510,7 @@
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 262,
-      "2024-07-12": 106,
-      "2024-06-06": 448
+      "2024-07-12": 106
     }
   },
   {
@@ -522,18 +519,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rezka_api.sek.su.ico",
     "slug": "rezka-api",
     "status": "down",
-    "uptime": "84.03%",
+    "uptime": "84.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.03%",
+    "uptimeYear": "84.02%",
     "time": 1141,
     "timeDay": 692,
     "timeWeek": 791,
     "timeMonth": 863,
     "timeYear": 1141,
     "dailyMinutesDown": {
-      "2025-06-05": 1427,
+      "2025-06-06": 53,
+      "2025-06-05": 1440,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
@@ -608,7 +606,7 @@
     "status": "up",
     "uptime": "98.16%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.86%",
+    "uptimeWeek": "99.42%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "97.83%",
     "time": 115,
@@ -640,8 +638,7 @@
       "2024-08-30": 353,
       "2024-08-23": 119,
       "2024-06-11": 125,
-      "2024-06-08": 109,
-      "2024-06-06": 551
+      "2024-06-08": 109
     }
   },
   {
@@ -652,7 +649,7 @@
     "status": "up",
     "uptime": "98.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.86%",
+    "uptimeWeek": "99.42%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "97.93%",
     "time": 115,
@@ -691,18 +688,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend.isbotdown.com.ico",
     "slug": "nft-number-bot",
     "status": "down",
-    "uptime": "71.02%",
+    "uptime": "71.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "71.02%",
+    "uptimeYear": "71.00%",
     "time": 120,
     "timeDay": 90,
     "timeWeek": 102,
     "timeMonth": 146,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2025-06-05": 1427,
+      "2025-06-06": 53,
+      "2025-06-05": 1440,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
