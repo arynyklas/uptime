@@ -1,7 +1,7 @@
 url: https://backend.isbotdown.com/bots/msg2textbot
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-26T19:36:40.945Z
+status: up
+code: 200
+responseTime: 308
+lastUpdated: 2025-06-26T19:47:52.823Z
 startTime: 2022-09-25T16:29:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
