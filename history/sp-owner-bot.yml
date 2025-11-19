@@ -1,7 +1,7 @@
 url: https://backend.isbotdown.com/bots/SPOwnerBot
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-18T23:13:22.580Z
+status: up
+code: 200
+responseTime: 133
+lastUpdated: 2025-11-19T10:48:13.559Z
 startTime: 2022-09-25T16:29:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
